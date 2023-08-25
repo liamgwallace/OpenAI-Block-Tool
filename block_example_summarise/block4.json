@@ -1,0 +1,13 @@
+{
+  "block_index": 4,
+  "input_block": [3],
+  "loop_block": 0,
+  "ai_temp": 0.9,
+  "prompt_system": "You are a summarisation expert call Summary_Bot you will be given some text and an instruction and you will provide your best summary to the user.",
+  "prompt_user": "You will be given part of a transcript from a chat dialogue organising a stag do and a summary of the previous parts.  I am going on the stag do, but hav not read the chat. Extract the information I need such as dates, times, locations etc. activities. Give me a comprihensive summary of the final agreed plan. Break it down into relevant sections \n\nSUMMARY SO FAR:\n{block_input}\n\nCHAT LOGS: \n{prompt_file}",
+  "prompt_files": ["stag4.txt"],
+  "data_files": [],
+  "output_file": "stag_MR_output4.txt",
+  "output_text": "",
+  "is_processed": false
+}

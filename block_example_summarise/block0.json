@@ -1,0 +1,13 @@
+{
+  "block_index": 0,
+  "input_block": [0],
+  "loop_block": 0,
+  "ai_temp": 0.9,
+  "prompt_system": "",
+  "prompt_user": "",
+  "prompt_files": [""],
+  "data_files": [""],
+  "output_file": "",
+  "output_text": "",
+  "is_processed": true
+}
