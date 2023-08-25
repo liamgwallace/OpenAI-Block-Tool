@@ -1,0 +1,13 @@
+{
+  "block_index": 5,
+  "input_block": [1],
+  "loop_block": 0,
+  "ai_temp": 0.9,
+  "prompt_system": "You are a summarisation bot. You will provide a shor and simple summary based on the following instruction:",
+  "prompt_user": "based on the following article: \n{block_input} \n\n select from the following information the top 8 list of keywords that would fit\nKeyword data\n{data_file}",
+  "prompt_files": [],
+  "data_files": ["data1.txt", "data2.txt"],
+  "output_file": "output5.txt",
+  "output_text": "",
+  "is_processed": false
+}

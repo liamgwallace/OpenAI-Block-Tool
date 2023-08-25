@@ -1,0 +1,13 @@
+{
+  "block_index": 2,
+  "input_block": [1],
+  "loop_block": 0,
+  "ai_temp": 0.9,
+  "prompt_system": "You are a summarisation bot. You will provide a shor and simple summary based on the following instruction:",
+  "prompt_user": "List the headings for a blogpost based on the following outline. List only main chapters and not the subheadings : \n{block_input}",
+  "prompt_files": [],
+  "data_files": [],
+  "output_file": "output2.txt",
+  "output_text": "",
+  "is_processed": false
+}

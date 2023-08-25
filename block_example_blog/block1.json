@@ -1,0 +1,13 @@
+{
+  "block_index": 1,
+  "input_block": [0],
+  "loop_block": 0,
+  "ai_temp": 0.2,
+  "prompt_system": "You are a creative Copywriter: you create outlines for other writers to develop a content strategy. You will can provide a detailed plan for a blog post, including the main points, structure. ",
+  "prompt_user": "Create an outline for a blogpost it must be short an simple for a company called AcmeCO Ltd, linked in profile. It should have 3 main chapters. Use the content, theme and format from the following articles to help you pick a unique topic based on the information in the articles: \n{data_file}\n\n Your output must be unique it must not be a copy of any of the blog articles. Make the article unique!!!!!!",
+  "prompt_files": [],
+  "data_files": ["file1.txt", "file2.txt", "mesh.txt", "ceres_hydrogen decarbonising.txt", "blog format.txt"],
+  "output_file": "output1.txt",
+  "output_text": "",
+  "is_processed": false
+}
